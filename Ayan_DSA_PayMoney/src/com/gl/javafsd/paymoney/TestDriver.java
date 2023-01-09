@@ -2,7 +2,7 @@ package com.gl.javafsd.paymoney;
 
 import java.util.Scanner;
 
-public class UIClass {
+public class TestDriver {
 
 	public static void main(String[] args) {
 		
